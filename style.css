@@ -1,0 +1,21 @@
+.fundo-gradiente{
+  background: rgb(241,233,233);
+  background: linear-gradient(90deg, rgba(241,233,233,1) 0%, rgb(48, 134, 74) 45%, rgb(120, 250, 142) 100%);
+}
+
+.fonte{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container{
+  width: 50%
+}
+
+.titulo{
+  font-family: 'IM Fell English SC', serif;
+  text-align: center;
+}
+
+.fundo{
+  background-color:rgba(231, 231, 231, 0.76)
+}
